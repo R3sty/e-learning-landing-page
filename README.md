@@ -1,10 +1,8 @@
-# Frontend Mentor - Skilled e-learning landing page
+# E-learning landing page
 
 ![Design preview for the Skilled e-learning landing page coding challenge](./preview.jpg)
 
 ## Welcome! 👋
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
 
 **To do this challenge, you need a decent understanding of HTML and CSS.**
 
